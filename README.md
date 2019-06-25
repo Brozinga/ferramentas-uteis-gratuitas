@@ -53,6 +53,7 @@ Palette for Chrome | Cria uma paleta de cores a partir de uma imagem | https://c
 
 Nome | Descrição | Website
 ------------ | ------- | ------------
+Awwwards | Os Melhores sites do Mundo (Votação) | https://www.awwwards.com/
 MaterialUp | Inspiração diária para Material Design | http://www.materialup.com/
 FLTDSGN | Uma exibição diária dos melhores exemplos de flat design em sites e apps | http://fltdsgn.com/
 Site Inspire | Inspirações para webdesign | http://www.siteinspire.com/
